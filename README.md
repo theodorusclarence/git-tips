@@ -7,3 +7,9 @@ git commit --amend
 ```
 
 https://youtu.be/jYV1utbwLRI
+
+## 2. Renaming with rebase
+
+```sh
+git rebase -i HEAD~n
+```
