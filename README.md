@@ -3,5 +3,7 @@
 ## 1. Renaming Last Commit
 
 ```sh
-git commit -v --amend
+git commit --amend
 ```
+
+https://youtu.be/jYV1utbwLRI
