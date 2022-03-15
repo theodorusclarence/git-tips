@@ -1,5 +1,7 @@
 # Git Tips
 
+Testing Tips
+
 ## 1. Renaming Last Commit
 
 ```sh
