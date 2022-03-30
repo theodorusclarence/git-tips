@@ -16,4 +16,12 @@ https://youtu.be/jYV1utbwLRI
 git rebase -i HEAD~n
 ```
 
-https://youtu.be/dummy
+https://youtu.be/gX99EClXvRo
+
+## 3. Why should we use push force
+
+```sh
+git push -f
+```
+
+https://youtu.be/YcakIFYV3CU
